@@ -4,6 +4,6 @@
 format: jb-book
 root: intro
 chapters:
-- file: cd-libs/secc1
+- file: cap1_libs
   sections:
-  - file: cd-libs/secciones/secc1
+  - file: cap1_libs_secc1_matrix
