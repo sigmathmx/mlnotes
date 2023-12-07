@@ -5,3 +5,5 @@ format: jb-book
 root: intro
 chapters:
 - file: secc1
+  sections:
+  - file: subsecc1
